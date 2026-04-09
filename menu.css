@@ -1,0 +1,13 @@
+#hero{
+    height: 400px;
+    background-size: auto;
+    background-image: url(https://preview.colorlib.com/theme/rooftop/img/banner-bg.png);
+}
+
+.chef-img{
+    margin-inline: 0 95px;
+}
+
+.carrosel{
+    margin-bottom: 120px;
+}
